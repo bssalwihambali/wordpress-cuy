@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bss-sandbox-env-1",
+  "private_key_id": "c5407de163235771240a6d8fbfc65125e744489b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCy0PaS8FPebqXh\noNXwORXgdtH9NwcfvoY1Ja9wNlqepmupsQLUACd5V5Tklu5LSZ/Qs6gPXKufLhKO\nheWOG4Mlc8/HKZs2Ajs1O1zKbb+5XAKf1+5qgXW8y/5WSXina7Dw3dGy6VQ9zcnL\ntHycN8Mh7st69iEgWjotrBjQLtqo5uFbib4Wm9KD0DO6NlP+TvIUQFF7HAq+48Uf\nooAUYF+nDBwvH1OnwY3fdsgYhJCFwv7eGXOLMOOmts0jHTsp0wokAL3mE1Ypn/j2\nFwcqxVjyQA0ZssEfnQqAUYtIceLMcqnQdWJv/k1BTFIaOt8CLpCUDiDXg+yIyX3N\neP5TjkOtAgMBAAECggEADYMKbB5airTGtm7Dq77MieUV8gct88v0R+DR9G3kWWz5\njAgy+Ve3o+Imf0LDvTmnfgrio00yhLk5BWmrEnAUGrOOcEi9uzjeRiP3Bi7WgshS\nmcckc1+BSOO16MmYIzfZK3eU0xWcMX1dhxXbfVHIs3A1Z6m15W7GoFE1oMmMPqCZ\n2opEhqLCJku9/gVx6zuzpdFVb83LWvD48XjWOekGJ/mFF0xZi0aeX3Fj5ihdLqvf\njWTd3J63Dr8Jlgi2SPtJq2/8KyMBPlgoX0dfXQAXZKEeg0RUYvxP5Nh7g4Frhxc8\nIL3W5up+hfyturL2HbrdMu+8O3zvEsBBlWePFa3miwKBgQDmuic8v2t/6rGQQ2uz\nlEE36ZI2KpAC+DC2ZTMKixAyrPkXrjABl6bSBJaR5Su8hExuTo9GgaGDcA2+FI9o\nnTDFcgeefjvUlrCTjhynKR9bxYk/780W543R6JvGvROPysXg/Yp07N1Oott16bIb\nThY2ZUIj828jMgZw+UGv1o7lpwKBgQDGZyui/Xd/+XmsyjZnexJ2oqoCeha+lO0v\ndl+n/HD0iPu+N5MhqWVsu7mR0WyF/y+KxAXDrQpDBnwaEp0kWsVNAaKSaTy68gp9\ndvK77z0mOdgGaaLTFZ7guJF8Rqt6BKR1flam28GElhciD6NWHk+rSxGK8dLHKrN9\nb+4MIEIeiwKBgDFVamBd2aF/UDo1gEjkkVFgOugkD6ji4p+NYe2GMI91VsmOcCtW\n/s93Na66XrCvZRxM5evAegV9pyKWiNdojO4a5LAp86cQFW9neo7vhwn7Yc5u+t5D\n4poYb35+HTmotMjXzYwUvXk770r2DiQyfSNiYVMIkSHoZ2IumbH8YY+PAoGBAIic\npZlXOh9uYm+t1QQv5Ci4HKQT+PFFjoPt2DPNSOG4KM9zaOX2xBW4tTBIqZcifVPp\nYaa40aYRIwa45mcP8Wbyx0RVHjIDU2HMs5rgQpS9o5fWyPzbmEhYDiUqbAxagfs9\nAOFn07o9trQHXIqB2I2z5OJtXJszNeAbYCgNVjm9AoGAPcu5a6u9tKidI1sRQ/Qa\nyzmdoea1hJFCJqhLdL50RMvmdvLd0SDkRmqrfnXIKSqwwPilBO3kytAztJCbhGyK\nhFvu1c7ZUKn5lzPIsC8JBzdpoAiXbm0vu98Dkl618BYpeZJYshcPUvh2+C8Bocsk\ngkVGx684UmKf3qHnGnwbdOo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bss-ando-sql-service-1@bss-sandbox-env-1.iam.gserviceaccount.com",
+  "client_id": "103126113341849639635",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bss-ando-sql-service-1%40bss-sandbox-env-1.iam.gserviceaccount.com"
+}
